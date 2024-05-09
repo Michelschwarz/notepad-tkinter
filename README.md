@@ -4,4 +4,5 @@ Bloco de Notas feito em tkinter bruto sem nenhuma biblioteca. Projeto simples ap
 
 O codigo salva o texto dentro do notepad.txt
 
-![image](https://github.com/Michelschwarz/notepad-tkinter/assets/50756424/3f9634de-cbe9-4f22-bdf7-07b6d2c41c97)
+
+![asdasd](https://github.com/Michelschwarz/notepad-tkinter/assets/50756424/cf6c6d9f-2d73-48ae-bb6c-75ab9fe9c029)
