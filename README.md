@@ -1,5 +1,5 @@
 # notepad-tkinter
-Bloco de Notas feito em tkinter bruto sem nenhuma biblioteca. Projeto simples apenas com 2 fontes 'Arial ou Verdana' e também possui um menu básico.
+Bloco de Notas feito em tkinter bruto sem nenhuma biblioteca (além do tkinter). Projeto simples apenas com 2 fontes 'Arial ou Verdana' e também possui um menu básico.
 
 
 O codigo salva o texto dentro do notepad.txt
